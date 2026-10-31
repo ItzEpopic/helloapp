@@ -2,7 +2,7 @@
 
 static void SayHello()
 {
-    Console.WriteLine("hello");
+    Console.WriteLine("hello everyone");
 }
 
 static void GreetWhite()
